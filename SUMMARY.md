@@ -2,3 +2,7 @@
 
 * [Başlangıç](README.md)
 
+## Ayarlar
+
+* [MinKelime](ayarlar/minkelime.md)
+
